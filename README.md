@@ -14,12 +14,12 @@ This project aims to create a dynamic web application that leverages the power o
 ## Installation
 To get started with the project, follow these steps:
 
-1. **Clone the repository:** git clone https://github.com/your-username/your-repo.git
+1. **Clone the repository:** git clone https://github.com/FocusedPoetry10/MERN-MasterClass---Nerded.git
 2. **Navigate to the project directory:** cd your-project-directory
 3. **Install dependencies:** npm install
 4. **Start the development server:** npm start
 
-##Contribution
+## Contribution
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 ##License
